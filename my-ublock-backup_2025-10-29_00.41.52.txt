@@ -1,0 +1,34 @@
+{
+  "timeStamp": 1761712912313,
+  "version": "1.66.4",
+  "userSettings": {
+    "importedLists": [],
+    "userFiltersTrusted": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-unbreak",
+    "ublock-quick-fixes",
+    "easylist",
+    "adguard-spyware-url",
+    "easyprivacy",
+    "urlhaus-1",
+    "curben-phishing",
+    "plowe-0",
+    "LegitimateURLShortener"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "chrome-extension-scheme",
+    "moz-extension-scheme",
+    "porntn.com",
+    "www.moddb.com"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
