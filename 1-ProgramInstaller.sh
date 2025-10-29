@@ -5,7 +5,7 @@ sudo pacman -S discord lutris handbrake speedtest-cli gimp base-devel keepass au
 
 # yay allows multiple package installs at the same time
 yay -Syu
-yay -S ttf-ms-fonts drawio-desktop appimagelauncher librewolf
+yay -S ttf-ms-fonts drawio-desktop appimagelauncher librewolf xclicker
 
 # Install runelite and Jagex launcher
 # https://github.com/TormStorm/jagex-launcher-linux
