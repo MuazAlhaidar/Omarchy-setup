@@ -1,7 +1,7 @@
 #! /usr/bin/bash 
 
 sudo pacman -Syu 
-sudo pacman -S discord lutris handbrake speedtest-cli gimp base-devel keepass audacity teamspeak3 7zip wine-staging ffmpeg yt-dlp --noconfirm
+sudo pacman -S discord lutris handbrake speedtest-cli gimp base-devel keepass audacity teamspeak3 7zip wine-staging ffmpeg yt-dlp flatpak --noconfirm
 
 # yay allows multiple package installs at the same time
 yay -Syu
